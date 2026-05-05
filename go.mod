@@ -2,7 +2,7 @@ module github.com/penny-vault/vigilant-asset-allocation
 
 go 1.25.6
 
-require github.com/penny-vault/pvbt v0.8.1
+require github.com/penny-vault/pvbt v0.9.2
 
 require (
 	github.com/NimbleMarkets/ntcharts v0.5.1 // indirect

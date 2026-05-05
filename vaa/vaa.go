@@ -64,7 +64,7 @@ func (s *VigilantAssetAllocation) Describe() engine.StrategyDescription {
 		Version:     "0.1.0",
 		VersionDate: time.Date(2026, 5, 2, 0, 0, 0, 0, time.UTC),
 		Schedule:    "@monthend",
-		Benchmark:   "VFINX",
+		Benchmark:   "SPY",
 	}
 }
 
