@@ -2,7 +2,7 @@ module github.com/penny-vault/vigilant-asset-allocation
 
 go 1.26
 
-require github.com/penny-vault/pvbt v0.10.2
+require github.com/penny-vault/pvbt v0.10.3
 
 require (
 	github.com/ClickHouse/ch-go v0.72.0 // indirect
