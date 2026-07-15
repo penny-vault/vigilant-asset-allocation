@@ -61,8 +61,8 @@ func (s *VigilantAssetAllocation) Describe() engine.StrategyDescription {
 		ShortCode:   "vaa",
 		Description: description,
 		Source:      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3002624",
-		Version:     "0.1.0",
-		VersionDate: time.Date(2026, 5, 2, 0, 0, 0, 0, time.UTC),
+		Version:     "0.1.1",
+		VersionDate: time.Date(2026, 7, 14, 0, 0, 0, 0, time.UTC),
 		Schedule:    "@monthend",
 		Benchmark:   "SPY",
 	}
